@@ -23,8 +23,7 @@ public class SauceLabTestcase {
 	
 	public WebDriver driver=null;
 	
-/*	public static final String USERNAME="oauth-jayanthibs-f3b81";
-	public static final String ACCESS_KEY="d7f73514-4977-46a3-8c3c-c30f3b8b0447";
+/*	
 	public static final String URL="https://"+USERNAME+":"+ACCESS_KEY+"@ondemand.saucelabs.com:443/wd/hub";
 	
 	@BeforeClass
@@ -62,8 +61,7 @@ public class SauceLabTestcase {
 		Map<String, Object> sauceOptions = new HashMap<>();
 		//sauceOptions.put("username", System.getenv("SAUCE_USERNAME"));
 		//sauceOptions.put("accessKey", System.getenv("SAUCE_ACCESS_KEY"));
-		sauceOptions.put("username", "oauth-jayanthibs-f3b81");
-		sauceOptions.put("accessKey", "d7f73514-4977-46a3-8c3c-c30f3b8b0447");
+		
 		sauceOptions.put("build", "selenium-build-X1I2M");
 		sauceOptions.put("name", "VerifySearch");
 		URL url = new URL("https://ondemand.us-west-1.saucelabs.com:443/wd/hub");
