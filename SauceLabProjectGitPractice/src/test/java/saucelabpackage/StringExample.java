@@ -14,6 +14,7 @@ public class StringExample {
 		String s7="jayanthi";
 		
 		System.out.println("s1="+s1);
+		System.out.println("s1="+s1);
 		System.out.println("s2="+s2);
 		System.out.println("s3="+s3);
 		System.out.println("length()-->"+s1.length());//Returns the length of this string
