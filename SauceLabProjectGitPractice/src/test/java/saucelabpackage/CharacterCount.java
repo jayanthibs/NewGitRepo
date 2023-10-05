@@ -4,6 +4,7 @@ public class CharacterCount
 public static void main(String[] args)
  {
 	String s="charactercount";
+	//String s="charactercount";
 	int r=0;
 	for(int x=0;x<s.length();x++)
 	{
