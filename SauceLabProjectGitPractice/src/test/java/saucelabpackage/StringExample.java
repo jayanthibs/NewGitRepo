@@ -16,6 +16,7 @@ public class StringExample {
 		System.out.println("s1="+s1);
 		System.out.println("s1="+s1);
 		System.out.println("s2="+s2);
+		System.out.println("s2="+s2);
 		System.out.println("s3="+s3);
 		System.out.println("length()-->"+s1.length());//Returns the length of this string
 		System.out.println("charAt(2)-->"+s2.charAt(2));//Returns the char value at the specified index
