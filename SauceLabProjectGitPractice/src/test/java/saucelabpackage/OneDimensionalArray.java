@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class OneDimensionalArray {
 	static String companyname ="GCOM Software LLC";
-	
+	// one dimensional array
 	
 	static void printEmployeeDetails(int n,String name[],int id[],float salary[],float bonus[]) {
 		int j=1;
