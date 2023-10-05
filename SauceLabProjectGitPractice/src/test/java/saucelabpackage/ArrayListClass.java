@@ -48,6 +48,7 @@ public class ArrayListClass {
 		
 		ArrayList<String> al = new ArrayList<String> ();
 		al.add("Rubi");
+		al.add("Rubi1");
 		al.add("Bala");
 		al.add("Jaya");  // adding string
 		al.add(1,"Shanthi");  //adding by index, string
